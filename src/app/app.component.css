@@ -1,0 +1,36 @@
+.wrapper {
+    width: 96%;
+    padding: 10px;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+}
+
+header {
+    text-align: center;
+}
+
+.content {
+    margin: 20px auto;
+    width: 700px;
+    padding: 50px;
+    border: 1px solid #ccc;
+}
+
+.content-items {
+    border-top: 1px solid #ccc;
+}
+
+.button-box {
+    text-align: center;
+}
+
+.card-action button {
+    float: right;
+}
+
+footer {
+    text-align: center;
+}
